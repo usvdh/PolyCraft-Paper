@@ -1,0 +1,72 @@
+THIS FILE IS A REFERENCE ONLY. Changing values in this file has no effect on the plugin.
+Please note that these permissions are automatically generated, and some teleport perms
+may be irrelevant.
+
+This File Was Generated on (dd/mm/yyyy) 05/07/2021 21:13:26
+
+
+
+=== Teleport Permissions ===                                === Description ===
+
+horsetpwithme.teleport.*                                    Teleport anything you can ride!
+horsetpwithme.teleport.skeleton_horse                       Teleport a Skeleton Horse either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.zombie_horse                         Teleport a Zombie Horse either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.donkey                               Teleport a Donkey either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.mule                                 Teleport a Mule either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_command                     Teleport a Minecart Command either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.boat                                 Teleport a Boat either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart                             Teleport a Minecart either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_chest                       Teleport a Minecart Chest either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_furnace                     Teleport a Minecart Furnace either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_tnt                         Teleport a Minecart Tnt either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_hopper                      Teleport a Minecart Hopper either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.minecart_mob_spawner                 Teleport a Minecart Mob Spawner either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.pig                                  Teleport a Pig either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.horse                                Teleport a Horse either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.llama                                Teleport a Llama either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.trader_llama                         Teleport a Trader Llama either buy riding it, or as a passenger of another vehicle.
+horsetpwithme.teleport.strider                              Teleport a Strider either buy riding it, or as a passenger of another vehicle.
+
+
+
+=== World Permissions ===                                   === Description ===
+
+horsetpwithme.empty_chests_from.world                       Empty Donkey/Mule Chest inventories when teleporting out of the world: world
+horsetpwithme.empty_chests_to.world                         Empty Donkey/Mule Chest inventories when teleporting into the world: world
+horsetpwithme.disabled_world.world                          Prevent vehicle teleportation into the world: world
+
+
+horsetpwithme.empty_chests_from.world_nether                Empty Donkey/Mule Chest inventories when teleporting out of the world: world_nether
+horsetpwithme.empty_chests_to.world_nether                  Empty Donkey/Mule Chest inventories when teleporting into the world: world_nether
+horsetpwithme.disabled_world.world_nether                   Prevent vehicle teleportation into the world: world_nether
+
+
+horsetpwithme.empty_chests_from.world_the_end               Empty Donkey/Mule Chest inventories when teleporting out of the world: world_the_end
+horsetpwithme.empty_chests_to.world_the_end                 Empty Donkey/Mule Chest inventories when teleporting into the world: world_the_end
+horsetpwithme.disabled_world.world_the_end                  Prevent vehicle teleportation into the world: world_the_end
+
+
+
+=== Message Permissions ===                                 === Description ===
+
+horsetpwithme.messages.*                                    View all messages
+horsetpwithme.messages.not_tamed                            View the "NOT_TAMED" Message
+horsetpwithme.messages.not_adult                            View the "NOT_ADULT" Message
+horsetpwithme.messages.missing_saddle                       View the "MISSING_SADDLE" Message
+horsetpwithme.messages.no_permission                        View the "NO_PERMISSION" Message
+horsetpwithme.messages.pass_clear_chest_from                View the "PASS_CLEAR_CHEST_FROM" Message
+horsetpwithme.messages.pass_clear_chest_to                  View the "PASS_CLEAR_CHEST_TO" Message
+horsetpwithme.messages.disabled_world                       View the "DISABLED_WORLD" Message
+horsetpwithme.messages.denied_cross_world                   View the "DENIED_CROSS_WORLD" Message
+
+
+
+=== General Permissions ===                                 === Description ===
+
+horsetpwithme.deny_passenger_teleport                       Players with this permission cannot be teleported as a vehicle passenger.
+horsetpwithme.require_tamed                                 Players with this permission can only teleport Tameable Entities if the entity is Tamed.
+horsetpwithme.require_adult                                 Players with this permission cannot teleport baby animals.
+horsetpwithme.require_saddle                                Players with this permission cannot teleport saddle-able entities without a saddle.
+horsetpwithme.deny_cross_world                              Players with this permission cannot teleport vehicles out of the world they're in.
+
+

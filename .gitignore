@@ -10,3 +10,15 @@ start.bat
 usercache.json
 whitelist.json
 paper.jar
+
+# Plugin Configs
+plugins/CoreProtect/database.db
+plugins/InventoryRollback/saves/*
+
+# Plugins
+plugins/CoreProtect-19.5.jar
+plugins/Harbor-1.6.4-b1-SNAPSHOT.jar
+plugins/HorseTpWithMe-7.4.0.2.jar
+plugins/InventoryRollback-1.4.0.jar
+plugins/ProtocolLib.jar
+plugins/Vault.jar
