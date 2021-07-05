@@ -10,6 +10,7 @@ start.bat
 usercache.json
 whitelist.json
 paper.jar
+ops.json
 
 # Plugin Configs
 plugins/CoreProtect/database.db
