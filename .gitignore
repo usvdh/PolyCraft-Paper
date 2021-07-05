@@ -1,0 +1,11 @@
+cache/*
+logs/*
+world/*
+world_nether/*
+world_the_end/*
+.console_history
+banned-ips.json
+banned-players.json
+start.bat
+usercache.json
+whitelist.json
