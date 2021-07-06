@@ -11,6 +11,7 @@ usercache.json
 whitelist.json
 paper.jar
 ops.json
+eula.txt
 
 # Plugin Configs
 plugins/CoreProtect/database.db
