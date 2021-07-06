@@ -16,6 +16,7 @@ eula.txt
 # Plugin Configs
 plugins/CoreProtect/database.db
 plugins/InventoryRollback/saves/*
+plugins/HorseTpWithMe/Permissions.txt
 
 # Plugins
 plugins/CoreProtect-19.5.jar
