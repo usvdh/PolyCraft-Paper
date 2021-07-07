@@ -17,6 +17,10 @@ eula.txt
 plugins/CoreProtect/database.db
 plugins/InventoryRollback/saves/*
 plugins/HorseTpWithMe/
+plugins/LuckPerms/libs/*
+plugins/LuckPerms/translations/*
+plugins/LuckPerms/contexts.json
+plugins/LuckPerms/luckperms-h2.mv.db
 
 # Plugins
 plugins/CoreProtect-19.5.jar
@@ -26,4 +30,4 @@ plugins/InventoryRollback-1.4.0.jar
 plugins/ProtocolLib.jar
 plugins/Vault.jar
 plugins/FarmControl-1.1.7.jar
-plugins/
+plugins/LuckPerms-Bukkit-5.3.50.jar
