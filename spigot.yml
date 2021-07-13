@@ -40,12 +40,12 @@ advancements:
   disabled:
   - minecraft:story/disabled
 messages:
-  whitelist: You are not whitelisted on this server!
+  whitelist: You are not whitelisted on this server. Please contact the server owner!
   unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  server-full: Sorry! Looks like the server is full.
+  outdated-client: You're using an outdated client! Please use {0}
+  outdated-server: Sorry! It looks like we haven't updated yet! We're still on {0}
+  restart: Yay! Server is restarting...
 commands:
   silent-commandblock-console: false
   spam-exclusions:

@@ -21,7 +21,7 @@ settings:
   connection-throttle: 4000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server closed
+  shutdown-message: Sorry! Looks like the server went down :(
   minimum-api: none
 spawn-limits:
   monsters: 70
