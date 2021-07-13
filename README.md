@@ -33,17 +33,15 @@ And you're done! Now you have a fully working server.
 
 ### Plugins
 
-- [ChatEx](https://www.spigotmc.org/resources/chatex.71041/)
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
-- [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
+<!--- - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) --->
 - [EssentialsX](https://essentialsx.net/) (EssentialsX & EssentialsXSpawn)
-- [GeyserMC](https://geysermc.org/) (GeyserMC & Floodgate)
+<!--- - [GeyserMC](https://geysermc.org/) (GeyserMC & Floodgate) --->
 - [Harbor](https://www.spigotmc.org/resources/harbor-a-sleep-enhancement-plugin.60088/)
 - [HorseTpWithMe](https://www.spigotmc.org/resources/horsetpwithme.8186/)
 - [Inventory Rollback](https://www.spigotmc.org/resources/inventory-rollback.48074/)
 - [Lag Monitor](https://www.spigotmc.org/resources/lagmonitor.21348/)
 - [LuckPerms](https://luckperms.net/)
-- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
-- [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/)
+<!--- - [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/) --->
 - [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
