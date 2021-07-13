@@ -31,6 +31,8 @@ plugins/Essentials/kits.yml
 plugins/Essentials/tpr.yml
 plugins/Essentials/upgrades-done.yml
 plugins/Essentials/worth.yml
+plugins/Essentials/userdata/*
+plugins/Essentials/usermap.csv
 
 # Plugins
 plugins/CoreProtect-19.5.jar
