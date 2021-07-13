@@ -17,8 +17,8 @@ PolyCraft V1 officially started in 2016 at Minecraft version 1.10 (Java), but ha
 ## Key Features
 
 * Quality of life features such as /spawn, /home and /tpa.
-* Crossplay with Java and Bedrock thanks to [GeyserMC](https://geysermc.org/)
-* Full-fledged integration with Discord (i.e. Chat Relay) thanks to [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) and [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/)
+<!--- * Crossplay with Java and Bedrock thanks to [GeyserMC](https://geysermc.org/) --->
+<!--- * Full-fledged integration with Discord (i.e. Chat Relay) thanks to [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) and [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/) --->
 * Numerous anti-lag measures thanks to [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) and [LagMonitor](https://www.spigotmc.org/resources/lagmonitor.21348/), as well as [PaperMC](https://papermc.io/)
 * Anti-grief measures with [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) and [InventoryRollback](https://www.spigotmc.org/resources/inventory-rollback.48074/)
 
