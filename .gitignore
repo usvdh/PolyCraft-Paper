@@ -21,6 +21,13 @@ plugins/LuckPerms/libs/*
 plugins/LuckPerms/translations/*
 plugins/LuckPerms/contexts.json
 # plugins/LuckPerms/luckperms-h2.mv.db
+plugins/Essentials/warps/*
+plugins/Essentials/custom_items.yml
+plugins/Essentials/items.json
+plugins/Essentials/kits.yml
+plugins/Essentials/tpr.yml
+plugins/Essentials/upgrades-done.yml
+plugins/Essentials/worth.yml
 
 # Plugins
 plugins/CoreProtect-19.5.jar
@@ -31,3 +38,5 @@ plugins/ProtocolLib.jar
 plugins/Vault.jar
 plugins/FarmControl-1.1.7.jar
 plugins/LuckPerms-Bukkit-5.3.50.jar
+plugins/EssentialsX-2.19.0-dev+194-6535edf.jar
+plugins/EssentialsXSpawn-2.19.0-dev+194-6535edf.jar
