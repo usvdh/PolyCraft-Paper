@@ -2,6 +2,8 @@
 
 # THIS IS STILL HEAVILY UNDER DEVELOPMENT!!!
 
+Progress will ramp up as 1.18 approaches and suitable betas release for testing. 
+
 Version 2.0 of the private Minecraft survival server Polycraft. 
 
 ## Getting Started
@@ -17,7 +19,7 @@ PolyCraft V1 officially started in 2016 at Minecraft version 1.10 (Java), but ha
 * Quality of life features such as /spawn, /home and /tpa.
 * Crossplay with Java and Bedrock thanks to [GeyserMC](https://geysermc.org/)
 * Full-fledged integration with Discord (i.e. Chat Relay) thanks to [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) and [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/)
-* Numerous anti-lag measures thanks to [FarnControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) and [LagMonitor](https://www.spigotmc.org/resources/lagmonitor.21348/), as well as [PaperMC](https://papermc.io/)
+* Numerous anti-lag measures thanks to [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) and [LagMonitor](https://www.spigotmc.org/resources/lagmonitor.21348/), as well as [PaperMC](https://papermc.io/)
 * Anti-grief measures with [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) and [InventoryRollback](https://www.spigotmc.org/resources/inventory-rollback.48074/)
 
 ## How to use 
@@ -26,6 +28,7 @@ This repo is provided without the server .jar file and plugin .jar files, please
 1. Download [PaperMC](https://papermc.io/) and put the .jar file into the root folder
 2. Download all the plugins and put them into /plugins
 3. Customize the startfile to your liking
+
 And you're done! Now you have a fully working server.
 
 ### Plugins
@@ -39,8 +42,8 @@ And you're done! Now you have a fully working server.
 - [HorseTpWithMe](https://www.spigotmc.org/resources/horsetpwithme.8186/)
 - [Inventory Rollback](https://www.spigotmc.org/resources/inventory-rollback.48074/)
 - [Lag Monitor](https://www.spigotmc.org/resources/lagmonitor.21348/)
-- [PermissionsEx](https://github.com/PEXPlugins/PermissionsEx/releases) (DEPRECATED)
+- [LuckPerms](https://luckperms.net/)
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 - [RelayItToDiscord](https://www.spigotmc.org/resources/relayittodiscord.34615/)
-- [Farm Control](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/)
+- [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
