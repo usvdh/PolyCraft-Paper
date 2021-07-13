@@ -2,6 +2,8 @@
 
 # THIS IS STILL HEAVILY UNDER DEVELOPMENT!!!
 
+Progress will ramp up as 1.18 approaches and suitable betas release for testing. 
+
 Version 2.0 of the private Minecraft survival server Polycraft. 
 
 ## Getting Started
