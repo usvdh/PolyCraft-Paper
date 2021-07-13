@@ -12,6 +12,9 @@ whitelist.json
 paper.jar
 ops.json
 eula.txt
+permissions.yml
+commands.yml
+help.yml
 
 # Plugin Configs
 plugins/CoreProtect/database.db
