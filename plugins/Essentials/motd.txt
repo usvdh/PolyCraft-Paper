@@ -1,0 +1,2 @@
+&7Welcome, {PLAYER}&7!
+&7Players online:&d {ONLINE} &7- World time:&d {WORLDTIME12}
