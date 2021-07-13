@@ -14,6 +14,7 @@ verbose: false
 use-display-name-in-quit-message: false
 config-version: 20
 settings:
+  log-named-entity-deaths: true
   bungee-online-mode: true
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
@@ -92,6 +93,7 @@ messages:
     connection-throttle: Connection throttled! Please wait before reconnecting.
 world-settings:
   default:
+    show-sign-click-command-failure-msgs-to-player: false
     disable-thunder: false
     disable-ice-and-snow: false
     keep-spawn-loaded-range: 10
@@ -276,3 +278,9 @@ world-settings:
       enabled: false
       items:
         COBBLESTONE: 300
+    mob-effects:
+      undead-immune-to-certain-effects: true
+      spiders-immune-to-poison-effect: true
+      immune-to-wither-effect:
+        wither: true
+        wither-skeleton: true
