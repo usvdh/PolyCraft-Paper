@@ -1,4 +1,4 @@
-# Polycraft
+# Polycraft (Paper)
 
 # THIS IS STILL HEAVILY UNDER DEVELOPMENT!!!
 
